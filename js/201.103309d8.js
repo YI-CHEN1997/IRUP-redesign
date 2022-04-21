@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkirup_redesign"]=self["webpackChunkirup_redesign"]||[]).push([[201],{6201:function(e,n,r){r.r(n),r.d(n,{default:function(){return p}});var t=r(6252);function u(e,n,r,u,s,o){const i=(0,t.up)("CaseStudiesComponent");return(0,t.wg)(),(0,t.j4)(i)}var s=r(7263),o={components:{CaseStudiesComponent:s.Z}},i=r(3744);const c=(0,i.Z)(o,[["render",u]]);var p=c}}]);
+//# sourceMappingURL=201.103309d8.js.map

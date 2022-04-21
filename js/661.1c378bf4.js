@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkirup_redesign"]=self["webpackChunkirup_redesign"]||[]).push([[661],{4661:function(r,e,n){n.r(e),n.d(e,{default:function(){return a}});var u=n(6252);function i(r,e){return(0,u.wg)(),(0,u.iD)("div")}var t=n(3744);const s={},c=(0,t.Z)(s,[["render",i]]);var a=c}}]);
+//# sourceMappingURL=661.1c378bf4.js.map
